@@ -2,6 +2,11 @@ public class A {
     private int A1;
     private float A2;
 
+    public A(int A1, float A2){
+        this.A1 = A1;
+        this.A2 = A2;
+    }
+
     public int getA1() {
         return A1;
     }
