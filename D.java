@@ -15,4 +15,8 @@ public class D {
         MD1("Estes são os dados deste objeto: ");
         System.out.println("D1: " + D1 + " D2: " + D2);
     }
+    
+    public void MD4(){
+        System.out.println("Nome do método: 'MD4'");
+    }
 }
