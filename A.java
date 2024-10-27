@@ -30,4 +30,8 @@ public class A {
     public int getSoma(int a, int b) {
         return a + b;
     }
+
+    public int getSoma_(int a, int b){
+        return a + b;
+    }
 }
